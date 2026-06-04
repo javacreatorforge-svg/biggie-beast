@@ -1,0 +1,62 @@
+{
+  "stomp": {
+    "category": "hostile",
+    "subtitle": "subtitle.biggie_beast.stomp",
+    "sounds": [
+      {
+        "name": "biggie_beast:stomp",
+        "stream": false
+      }
+    ]
+  },
+  "death": {
+    "category": "hostile",
+    "subtitle": "subtitle.biggie_beast.death",
+    "sounds": [
+      {
+        "name": "biggie_beast:death",
+        "stream": true
+      }
+    ]
+  },
+  "ambient1": {
+    "category": "hostile",
+    "subtitle": "subtitle.biggie_beast.ambient",
+    "sounds": [
+      {
+        "name": "biggie_beast:sound",
+        "stream": true
+      }
+    ]
+  },
+  "ambient2": {
+    "category": "hostile",
+    "subtitle": "subtitle.biggie_beast.ambient",
+    "sounds": [
+      {
+        "name": "biggie_beast:sound2",
+        "stream": true
+      }
+    ]
+  },
+  "ambient3": {
+    "category": "hostile",
+    "subtitle": "subtitle.biggie_beast.ambient",
+    "sounds": [
+      {
+        "name": "biggie_beast:sound3",
+        "stream": true
+      }
+    ]
+  },
+  "ambient4": {
+    "category": "hostile",
+    "subtitle": "subtitle.biggie_beast.ambient",
+    "sounds": [
+      {
+        "name": "biggie_beast:sound4",
+        "stream": true
+      }
+    ]
+  }
+}

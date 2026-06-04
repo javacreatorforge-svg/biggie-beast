@@ -1,0 +1,8 @@
+{
+  "entity.biggie_beast.caseoh": "CaseOh",
+  "item.biggie_beast.caseoh_spawn_egg": "CaseOh Spawn Egg",
+  "subtitle.biggie_beast.stomp": "STOMP",
+  "subtitle.biggie_beast.death": "CaseOh falls",
+  "subtitle.biggie_beast.ambient": "Something hungers...",
+  "death.attack.caseoh_eat": "%1$s was eaten alive by CaseOh"
+}
